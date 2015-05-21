@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="def_PoCs">
+        <item name="BELSPO">BELSPO PoC</item>
+        <item name="ICCU">ICCU PoC</item>
+        <item name="INDICATE">INDICATE Use Case</item>
+    </string-array>
+    
+    <string-array name="BELSPOPoC">
+        <item name="0">BELSPO Repository</item>
+    </string-array>
+    <string-array name="ICCUPoC">
+        <item name="0">ICCU Collections</item>
+    </string-array>
+    <string-array name="INDICATEUseCase">
+        <item name="0">Federico De Roberto DR</item>
+        <item name="1">Mediterranean Repo</item>
+        <item name="2">China Relics</item>
+        <item name="3">ICCU Collections</item>
+        <item name="4">CULTNAT Heritage</item>
+        <item name="5">Demo Collection</item>        
+    </string-array>
+    
+    <!--
+    string-array name="gateways">
+        <item name="0">EarthServer</item>
+        <item name="1">CHAIN</item>
+        <item name="2">Indicate</item>
+        <item name="3">agiNFRA</item>
+    </string-array>
+	<string-array name="gatwaysURL">
+        <item name="0">https://earthserver-sg.consorzio-cometa.it</item>
+        <item name="1">https://science-gateway.chain-project.eu</item>
+        <item name="2">https://indicate-gw.consorzio-cometa.it</item>
+        <item name="3">https://science-gateway.chain-project.eu</item>
+    </string-array
+    -->
+
+</resources>
