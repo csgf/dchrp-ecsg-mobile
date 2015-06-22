@@ -13,7 +13,7 @@ About
 
 .. image:: images/dch-rp.png
    :align: left
-   :scale: 60%
+   :scale: 40%
    :target: https://play.google.com/store/apps/details?id=it.infn.ct.dchrpSGmobile
 
 -------------
@@ -29,7 +29,7 @@ About
 
 DCH-RP eCSG Mobile currently provides to the following repositories:
 
-1. Belgian Science Policy Office (`BELSPO <https://www.belspo.be/>`_) |BELSPO-LOGO|
+1. Belgian Science Policy Office (`BELSPO <https://www.belspo.be/>`_) 
 
 .. |BELSPO-LOGO| image:: images/belspo-logo.jpg
    :align: middle
@@ -37,7 +37,7 @@ DCH-RP eCSG Mobile currently provides to the following repositories:
    :alt: BELSPO logo
    :scale: 60%
 
-2. Istituto Centrale per il Catalogo Unico (`ICCU <http://www.iccu.sbn.it/>`_) |ICCU-LOGO|
+2. Istituto Centrale per il Catalogo Unico (`ICCU <http://www.iccu.sbn.it/>`_) 
 
 .. |ICCU-LOGO| image:: images/ICCU.jpg
    :align: middle 
@@ -45,7 +45,7 @@ DCH-RP eCSG Mobile currently provides to the following repositories:
    :alt: ICCU logo
    :scale: 60%
 
-3. Digital Repository of Federico De Roberto works (`De Roberto DR <http://glibrary.ct.infn.it/>`_) |DR-LOGO|
+3. Digital Repository of Federico De Roberto works (`De Roberto DR <http://glibrary.ct.infn.it/>`_) 
 
 .. |DR-LOGO| image:: images/droberto.png
    :align: middle 
@@ -53,7 +53,7 @@ DCH-RP eCSG Mobile currently provides to the following repositories:
    :alt: MED Repo logo
    :scale: 60%
 
-4. Digital Repository of the Architectural and Archaeological |MED-LOGO|
+4. Digital Repository of the Architectural and Archaeological 
     Heritage in the Mediterranean Area (`De Roberto DR <http://glibrary.ct.infn.it/>`_) 
 
 .. |MED-LOGO| image:: images/droberto.png
@@ -62,7 +62,7 @@ DCH-RP eCSG Mobile currently provides to the following repositories:
    :alt: De Roberto DR logo
    :scale: 60%
 
-5. China Relics Data repositories(`China Relics DR <http://eunode7.jsi.buaa.edu.cn/>`_) |CHINA-LOGO|
+5. China Relics Data repositories(`China Relics DR <http://eunode7.jsi.buaa.edu.cn/>`_) 
 
 .. |CHINA-LOGO| image:: images/china-relics.png
    :align: middle 
@@ -70,7 +70,7 @@ DCH-RP eCSG Mobile currently provides to the following repositories:
    :alt: China Relics DR logo
    :scale: 100%
    
-6. Center for Documentation of Cultural and Natural Heritage (`CULTNAT Collections <http://cultnat.org/>`_) |CULTNAT-LOGO|
+6. Center for Documentation of Cultural and Natural Heritage (`CULTNAT Collections <http://cultnat.org/>`_) 
 
 .. |CULTNAT-LOGO| image:: images/CULTNAT.jpg
    :align: middle 
@@ -152,7 +152,7 @@ The Figure 3 shows also the available storages where the digital asset is availa
    :scale: 80%
    :figclass: text    
    
-   Figure 3. ICCU Repositories
+   Figure 3. Asset download
 
 ============
 Support
@@ -164,7 +164,6 @@ Please feel free to contact us any time if you have any questions or comments.
 .. _ARN: http://www.grid.arn.dz/
 
 :Authors:
- `Giuseppe LA ROCCA <mailto:giuseppe.larocca@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
 
  `Mario TORRISI <mailto:mario.torrisi@ct.infn.it>`_ - University of Catania (DFA_),
 
