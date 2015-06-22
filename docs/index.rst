@@ -25,7 +25,7 @@ About
 - Grid storage
 - Cloud storage
 
-DCH-RP eCSG Mobile currently provides to the following repositories:
+DCH-RP eCSG Mobile currently provides access to the following repositories:
 
 1. Belgian Science Policy Office (`BELSPO <https://www.belspo.be/>`_) 
 
