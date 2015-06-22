@@ -1,6 +1,6 @@
-*********************************
-DCH-RP eCSG Mobile (v 2.3.0) Docs
-*********************************
+******************
+DCH-RP eCSG Mobile
+******************
 
 ============
 About
@@ -152,20 +152,21 @@ The Figure 3 shows also the available storages where the digital asset is availa
    Figure 3. Asset download
 
 ============
-Support
+Contributors
 ============
-Please feel free to contact us any time if you have any questions or comments.
+
+Antonio CALANDUCCI
+
+Mario TORRISI
+
+.. Please feel free to contact us any time if you have any questions or comments.
 
 .. _INFN: http://www.ct.infn.it/
 .. _DFA: http://www.dfa.unict.it/
 .. _ARN: http://www.grid.arn.dz/
 
-:Authors:
+.. :Authors:
 
- `Mario TORRISI <mailto:mario.torrisi@ct.infn.it>`_ - University of Catania (DFA_),
+.. `Mario TORRISI <mailto:mario.torrisi@ct.infn.it>`_ - University of Catania (DFA_),
 
- `Antonio CALANDUCCI <mailto:antonio.calanducci@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
-
-:Version: (v 2.3.0), 2015
-
-:Date: June 22th, 2015 13:54
+.. `Antonio CALANDUCCI <mailto:antonio.calanducci@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
