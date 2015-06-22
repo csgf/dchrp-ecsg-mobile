@@ -16,8 +16,6 @@ About
    :scale: 40%
    :target: https://play.google.com/store/apps/details?id=it.infn.ct.dchrpSGmobile
 
--------------
-
 .. _DCH-RP: https://play.google.com/store/apps/details?id=it.infn.ct.dchrpSGmobile
 .. _ECSG-DCH-RP: http://ecsg.dch-rp.eu/
 
