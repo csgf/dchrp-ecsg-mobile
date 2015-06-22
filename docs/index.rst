@@ -53,8 +53,7 @@ DCH-RP eCSG Mobile currently provides to the following repositories:
    :alt: MED Repo logo
    :scale: 60%
 
-4. Digital Repository of the Architectural and Archaeological 
-    Heritage in the Mediterranean Area (`De Roberto DR <http://glibrary.ct.infn.it/>`_) 
+4. Digital Repository of the Architectural and Archaeological Heritage in the Mediterranean Area (`De Roberto DR <http://glibrary.ct.infn.it/>`_) 
 
 .. |MED-LOGO| image:: images/droberto.png
    :align: middle 
