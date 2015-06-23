@@ -1,5 +1,5 @@
 ******************
-DCH-RP eCSG Mobile
+DCH-RP ECSG MOBILE
 ******************
 
 ============
