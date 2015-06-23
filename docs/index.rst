@@ -112,7 +112,7 @@ or scan one of the following QR code
 Usage
 ============
 
-To use the DCH-RP eCSG Mobile requires federated credentials issued by an Identity Provider. If the organisation you belong to has an Identity Provider, proceed with the download; otherwise, you can first get federated credentials registering to the "open" Identity Provider, which belongs to the GrIDP federation.
+To use the DCH-RP eCSG Mobile you need federated credentials issued by an Identity Provider. If the organisation you belong to has an Identity Provider, proceed with the download; otherwise, you can first get federated credentials registering to the `"open" Identity Provider <https://idpopen.garr.it/register>`_, which belongs to the GrIDP federation.
 
 Once the application is installed on you mobile device, you can access the services using your federated credentials selecting the organization you belong and the Identity Provider (see Figure 1).
 
