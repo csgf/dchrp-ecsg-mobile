@@ -29,48 +29,47 @@ DCH-RP eCSG Mobile currently provides access to the following repositories:
 
 1. Belgian Science Policy Office (`BELSPO <https://www.belspo.be/>`_) 
 
-.. |BELSPO-LOGO| image:: images/belspo-logo.jpg
-   :align: middle
+.. image:: images/belspo-logo.jpg
+   :align: center
    :target: https://www.belspo.be/
    :alt: BELSPO logo
    :scale: 60%
 
 2. Istituto Centrale per il Catalogo Unico (`ICCU <http://www.iccu.sbn.it/>`_) 
 
-.. |ICCU-LOGO| image:: images/ICCU.jpg
-   :align: middle 
+.. image:: images/ICCU.jpg
+   :align: center 
    :target: http://www.iccu.sbn.it/
    :alt: ICCU logo
    :scale: 60%
 
 3. Digital Repository of Federico De Roberto works (`De Roberto DR <http://glibrary.ct.infn.it/>`_) 
 
-.. |DR-LOGO| image:: images/droberto.png
-   :align: middle 
-   :target: http://www.iccu.sbn.it/
-   :alt: MED Repo logo
+.. image:: images/droberto.png
+   :align: center 
+   :target: http://glibrary.ct.infn.it/
+   :alt: De Roberto DR
    :scale: 60%
 
-4. Digital Repository of the Architectural and Archaeological Heritage in the Mediterranean Area (`De Roberto DR <http://glibrary.ct.infn.it/>`_) 
+4. Digital Repository of the Architectural and Archaeological Heritage in the Mediterranean Area 
 
-.. |MED-LOGO| image:: images/droberto.png
-   :align: middle 
-   :target: http://www.iccu.sbn.it/
+.. image:: images/medrepo.jpg
+   :align: center 
    :alt: De Roberto DR logo
-   :scale: 60%
+   :scale: 50%
 
 5. China Relics Data repositories(`China Relics DR <http://eunode7.jsi.buaa.edu.cn/>`_) 
 
-.. |CHINA-LOGO| image:: images/china-relics.png
-   :align: middle 
+.. image:: images/china-relics.png
+   :align: center 
    :target: http://eunode7.jsi.buaa.edu.cn/
    :alt: China Relics DR logo
    :scale: 100%
    
 6. Center for Documentation of Cultural and Natural Heritage (`CULTNAT Collections <http://cultnat.org/>`_) 
 
-.. |CULTNAT-LOGO| image:: images/CULTNAT.jpg
-   :align: middle 
+.. image:: images/CULTNAT.jpg
+   :align: center 
    :target: http://eunode7.jsi.buaa.edu.cn/
    :alt: CULTNAT DR logo
    :scale: 80%
@@ -155,9 +154,9 @@ The Figure 3 shows also the available storages where the digital asset is availa
 Contributors
 ============
 
-Antonio CALANDUCCI
+    Antonio CALANDUCCI
 
-Mario TORRISI
+    Mario TORRISI
 
 .. Please feel free to contact us any time if you have any questions or comments.
 
