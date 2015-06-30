@@ -16,6 +16,8 @@ About
    :scale: 40%
    :target: https://play.google.com/store/apps/details?id=it.infn.ct.dchrpSGmobile
 
+-------------
+
 .. _DCH-RP: https://play.google.com/store/apps/details?id=it.infn.ct.dchrpSGmobile
 .. _ECSG-DCH-RP: http://ecsg.dch-rp.eu/
 
@@ -29,7 +31,7 @@ DCH-RP eCSG Mobile currently provides access to the following repositories:
 
 1. Belgian Science Policy Office (`BELSPO <https://www.belspo.be/>`_) 
 
-.. image:: images/belspo-logo.jpg
+.. .. image:: images/belspo-logo.jpg
    :align: center
    :target: https://www.belspo.be/
    :alt: BELSPO logo
@@ -37,7 +39,7 @@ DCH-RP eCSG Mobile currently provides access to the following repositories:
 
 2. Istituto Centrale per il Catalogo Unico (`ICCU <http://www.iccu.sbn.it/>`_) 
 
-.. image:: images/ICCU.jpg
+.. .. image:: images/ICCU.jpg
    :align: center 
    :target: http://www.iccu.sbn.it/
    :alt: ICCU logo
@@ -45,7 +47,7 @@ DCH-RP eCSG Mobile currently provides access to the following repositories:
 
 3. Digital Repository of Federico De Roberto works (`De Roberto DR <http://glibrary.ct.infn.it/>`_) 
 
-.. image:: images/droberto.png
+.. .. image:: images/droberto.png
    :align: center 
    :target: http://glibrary.ct.infn.it/
    :alt: De Roberto DR
@@ -53,14 +55,14 @@ DCH-RP eCSG Mobile currently provides access to the following repositories:
 
 4. Digital Repository of the Architectural and Archaeological Heritage in the Mediterranean Area 
 
-.. image:: images/medrepo.jpg
+.. .. image:: images/medrepo.jpg
    :align: center 
    :alt: De Roberto DR logo
    :scale: 50%
 
 5. China Relics Data repositories(`China Relics DR <http://eunode7.jsi.buaa.edu.cn/>`_) 
 
-.. image:: images/china-relics.png
+.. .. image:: images/china-relics.png
    :align: center 
    :target: http://eunode7.jsi.buaa.edu.cn/
    :alt: China Relics DR logo
@@ -68,7 +70,7 @@ DCH-RP eCSG Mobile currently provides access to the following repositories:
    
 6. Center for Documentation of Cultural and Natural Heritage (`CULTNAT Collections <http://cultnat.org/>`_) 
 
-.. image:: images/CULTNAT.jpg
+.. .. image:: images/CULTNAT.jpg
    :align: center 
    :target: http://eunode7.jsi.buaa.edu.cn/
    :alt: CULTNAT DR logo
@@ -86,13 +88,13 @@ To install DCH-RP eCSG Mobile on your devices simply download the app from the s
    :align: middle 
    :target: PLAY_
    :alt: DCH-RP eCSG Mobile play store
-   :scale: 100%
+   :scale: 80%
 
 .. |APP-STORE| image:: images/app-store-logo.jpg
    :align: middle
    :target: ITUNES_
    :alt: DCH-RP eCSG Mobile app store
-   :scale: 100%
+   :scale: 80%
 
 or scan one of the following QR code 
 
@@ -101,12 +103,12 @@ or scan one of the following QR code
 .. |ANDROID-QR| image:: images/android_qr.png
    :align: middle
    :alt: DCH-RP eCSG Mobile play store
-   :scale: 80%
+   :scale: 60%
     
 .. |IOS-QR| image:: images/appstore_qr.png
    :align: middle
    :alt: DCH-RP eCSG Mobile app store
-   :scale: 80%
+   :scale: 60%
 
 ============
 Usage
@@ -114,7 +116,9 @@ Usage
 
 To use the DCH-RP eCSG Mobile you need federated credentials issued by an Identity Provider. If the organisation you belong to has an Identity Provider, proceed with the download; otherwise, you can first get federated credentials registering to the `"open" Identity Provider <https://idpopen.garr.it/register>`_, which belongs to the GrIDP federation.
 
-Once the application is installed on you mobile device, you can access the services using your federated credentials selecting the organization you belong and the Identity Provider (see Figure 1).
+Once the application is installed on you mobile device, you can access the services using your federated credentials selecting the organization you belong and the Identity Provider (see `Figure 1`_).
+
+.. _Figure 1:
 
 .. figure:: images/IdP-list.jpeg
    :align: center
@@ -123,9 +127,11 @@ Once the application is installed on you mobile device, you can access the servi
    :scale: 60%
    :figclass: text    
    
-   Figure 1. Identity Provider List
+   Identity Provider List
 
-If your credentials are correct, the application shows the main view from which you could access repositories. As example the Figure 2 shows the repositories available for the ICCU proof of concept.
+If your credentials are correct, the application shows the main view from which you could access repositories. As example the `Figure 2`_ shows the repositories available for the ICCU proof of concept.
+
+.. _Figure 2:
 
 .. figure:: images/ICCU-POC.jpeg
    :align: center
@@ -134,12 +140,13 @@ If your credentials are correct, the application shows the main view from which 
    :scale: 60%
    :figclass: text    
    
-   Figure 2. ICCU Repositories
+   ICCU Repositories
 
 Selecting the the type of asset you are interested in, the application shows a list of available digital assets (see Figure 3) from which you could select the digital object. The application provides also a hierarchical filter mechanism that allows you to easly retreive the asset and metadata you are looking for.
 
-The Figure 3 shows also the available storages where the digital asset is available and a link to download the asset on your device.
+The `Figure 3`_ shows also the available storages where the digital asset is available and a link to download the asset on your device.
 
+.. _Figure 3:
 
 .. figure:: images/list.png
    :align: center
