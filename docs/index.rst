@@ -155,7 +155,7 @@ The `Figure 3`_ shows also the available storages where the digital asset is ava
    :scale: 80%
    :figclass: text    
    
-   Figure 3. Asset download
+   Asset download
 
 ============
 Contributors
